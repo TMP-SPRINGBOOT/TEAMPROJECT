@@ -1,4 +1,4 @@
 # TEAMPROJECT
-# 1조  [조장이름,조원1이름,조원2이름 ]
-# GITHUB : URL입력
+# 1조  [이운호, 황보성현, 함성모]
+# GITHUB : https://github.com/98Woonho/hotel-reservation.git
 
